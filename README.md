@@ -1,5 +1,16 @@
 # CodeFirstCsharp
 
+Codigo para subir a git
+
+* git init
+* git remote add origin (link)
+* git status
+* git add * 
+* git commit -m "Subir proyecto"
+* git push origin master
+
+
+
 Trabajando Base de datos con CodeFirst
 
 Recordando que se debe instalar EF
